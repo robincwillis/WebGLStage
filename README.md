@@ -6,13 +6,13 @@ A simple stage for viewing 3d models in WebGL
 
 Demo
 ----
-#[http://robincwillis.github.io/WebGLStage/](WebGLStage)
+#[WebGLStage](http://robincwillis.github.io/WebGLStage/)
 
 How To Use
 ----
 
 open js/stage.js
-find line 6
+and go to line 6
 ```javascript
 model   	:   "models/Clip.3dm.json",
 ```
